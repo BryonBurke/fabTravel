@@ -22,3 +22,7 @@ p {
   color: #66b3ff;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
+a:visited {
+  color: #ff66b3
+
+}
