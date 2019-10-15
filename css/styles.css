@@ -32,3 +32,11 @@ li {
   font-family: cursive;
   color: #aa80ff
 }
+th {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  line-height: 150px;
+  font-family: "Lucida Console", Monaco, monospace;
+  background-image: url("https://kbdevstorage1.blob.core.windows.net/asset-blobs/19443_en_1")
+}
